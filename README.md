@@ -1,2 +1,3 @@
 # stormy
-initial weather app from the treehouse tutorial
+initial weather app from the treehouse course
+
